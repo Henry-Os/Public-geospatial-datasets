@@ -7,4 +7,4 @@ Website links to public geospatial datasets datasets (mostly agtech data) such a
 
 [2. An open AI-ready dataset to map agricultural field boundaries](https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/DRLL/AI4BOUNDARIES/)
 
-[2. Source Cooperative (previously known as Radiant MLHub): satellite imagery (such as Planet 3-meter resolution) , LULC labels, crop type and boundary data, carbon data, and many more](https://beta.source.coop/)
+[3. Source Cooperative (previously known as Radiant MLHub): satellite imagery (such as Planet 3-meter resolution) , LULC labels, crop type and boundary data, carbon data, and many more](https://beta.source.coop/)
