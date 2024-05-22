@@ -14,3 +14,5 @@ URLs to publicly available geospatial datasets (mostly for agtech application) s
 [6. Major TOM: an extensible framework that allows different sources of EO data to be merged at a global scale for model training. Currently consists of Sentinel-2 and Sentinel-1 data](https://huggingface.co/Major-TOM)
 
 [7. EarthView: A large dataset of high-resolution imagery for training foundation models](https://huggingface.co/datasets/satellogic/EarthView)
+
+[8. Field Boundaries of Agriculture(fiboa): A shared global dataset of field boundaries to better understand global food security](https://github.com/fiboa)
